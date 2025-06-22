@@ -1,0 +1,12 @@
+[
+    {
+        "id": "6857a814547d71.78878689",
+        "name": "do homework",
+        "completed": true
+    },
+    {
+        "id": "6857a83290c259.77231278",
+        "name": "complete the assignment",
+        "completed": false
+    }
+]
